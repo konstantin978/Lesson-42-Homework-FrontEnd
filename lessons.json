@@ -1,0 +1,75 @@
+{
+  "lessons": [
+    {
+      "id": "101",
+      "title": "Introduction to JavaScript",
+      "ratings": [
+        {
+          "id": "1001",
+          "student": "101",
+          "rate": "8"
+        },
+        {
+          "id": "2024-09-10T16:35:59.808Z",
+          "student": "102",
+          "rate": "7"
+        }
+      ]
+    },
+    {
+      "id": "102",
+      "title": "Program Structure Part 1",
+      "ratings": [
+        {
+          "id": "1004",
+          "student": "103",
+          "rate": "10"
+        }
+      ]
+    },
+    {
+      "id": "c362",
+      "title": "C++ fundamentals",
+      "ratings": [
+        {
+          "id": "2024-09-10T16:41:25.426Z",
+          "student": "101",
+          "rate": "9"
+        },
+        {
+          "id": "2024-09-10T16:54:32.773Z",
+          "student": "102",
+          "rate": "7"
+        }
+      ]
+    },
+    {
+      "id": "9ee5",
+      "title": "Machine Learning",
+      "ratings": [
+        {
+          "id": "2024-09-10T16:44:59.404Z",
+          "student": "102",
+          "rate": 8
+        }
+      ]
+    }
+  ],
+  "students": [
+    {
+      "id": "101",
+      "name": "Tigran",
+      "surname": "Harutyunyan"
+    },
+    {
+      "id": "102",
+      "name": "Anna",
+      "surname": "Melqonyan"
+    },
+    {
+      "id": "103",
+      "name": "Lusine",
+      "surname": "Sahakyan"
+    }
+  ]
+}
